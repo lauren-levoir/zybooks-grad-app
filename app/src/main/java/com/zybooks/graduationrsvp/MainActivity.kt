@@ -38,9 +38,9 @@ fun GradScreen(modifier: Modifier = Modifier) {
         text = "Graduation Announcement",
         fontSize = 50.sp,
         textAlign = TextAlign.Center,
+        fontWeight = FontWeight.Bold,
         color = Color.Red,
         lineHeight = 50.sp,
-        fontWeight = FontWeight.Bold,
         modifier = modifier
     )
 }
